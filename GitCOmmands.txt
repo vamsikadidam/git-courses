@@ -4,3 +4,4 @@ git init -b main --> new repo with main branch
 git add <file name>  -->staging
 git commit -m "msg" --> to commit
 git commit -a -m "msg" --> to commit without staging
+git log -->to get the info

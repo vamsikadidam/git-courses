@@ -7,3 +7,5 @@ git commit -a -m "msg" --> to commit without staging
 git log -->to get the info
 git diff --> show the diff(changes) of the file before staging
 git diff --staged --> show the diff(changes) of the file after staging
+git rm --cached <filename>
+git add . --> to stage all the files

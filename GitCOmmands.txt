@@ -1,0 +1,6 @@
+git status --> for status
+git init --> creates new repo
+git init -b main --> new repo with main branch
+git add <file name>  -->staging
+git commit -m "msg" --> to commit
+git commit -a -m "msg" --> to commit without staging

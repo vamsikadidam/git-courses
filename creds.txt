@@ -1,2 +1,0 @@
-user delete
-pass file

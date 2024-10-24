@@ -11,3 +11,4 @@ git rm --cached <filename>
 git add . --> to stage all the files
 git push -u origin main
 git tag -a v1.0 -m "released version 1"
+it is new branch
